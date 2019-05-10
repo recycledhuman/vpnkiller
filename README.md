@@ -9,6 +9,6 @@ B. Used: Function (loop) for x in y; do z done
 
 III. Script Outline: Set Process array variables, set app name, set function loop, if/then to detect process. Set PID as variables, kill PID(s), remove app with recursive force, update
 
-IV. Take Aways: Note taking format developed, PID conversion, process killing
+IV. Takeaways: Note taking format developed, PID conversion, process killing
 
 V. Questions: How can I improve error reporting?
